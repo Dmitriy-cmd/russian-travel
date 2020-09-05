@@ -16,8 +16,8 @@
 **Ссылки**
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
-* [Ссылка на проект](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+* [Ссылка на проект](https://dmitriy-cmd.github.io/russian-travel/index.html)
 
 **Планы**
 
-В планах по проекту сделать верстку еще более отзывчивой и адаптивной, сделать более плавные переходы между разрешениями.
+В планах по проекту сделать верстку еще более отзывчивой и адаптивной, сделать более плавные переходы между разрешениями, поработать над кроссбраузерностью.
