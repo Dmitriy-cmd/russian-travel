@@ -1,0 +1,17 @@
+@import url(__lang-link/header__lang-link.css);
+@import url(__logo/header__logo.css);
+@import url(__links/header__links.css);
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 52px;
+    margin-bottom: 56px;
+    width: 100%;
+}
+
+@media (max-width: 1279px) {
+    .header {
+        margin-bottom: 48px;
+    }
+}

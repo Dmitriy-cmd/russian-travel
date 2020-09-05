@@ -1,0 +1,13 @@
+.header__links {
+    width: 77px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 18px;
+}
+
+@media (max-width: 767px) {
+    .header__links {
+        margin-top: 14px;
+        width: 62px;
+    }
+}
