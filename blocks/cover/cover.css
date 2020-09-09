@@ -16,11 +16,6 @@
     z-index: 5;
 }
 
-.cover:hover .cover__overlay {
-    background-color: #2A2C2F;
-    opacity: 0.8;
-}
-
 @media (max-width: 1279px) {
     .cover {
         min-width: 1024px;
