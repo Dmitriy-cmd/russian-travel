@@ -6,6 +6,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
+    max-width: 1184px;
 }
 
 @media (max-width: 767px) {
