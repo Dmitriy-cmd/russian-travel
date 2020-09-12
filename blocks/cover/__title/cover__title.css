@@ -1,7 +1,7 @@
 .cover__title {
     color: #FFFFFF;
     font-size: 72px;
-    line-height: 76px;
+    line-height: 106%;
     margin: 0 0 32px;
     z-index: 1;
     max-width: 560px;
