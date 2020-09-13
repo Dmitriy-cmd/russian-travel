@@ -1,0 +1,12 @@
+.cover__content {
+    width: 100%;
+    height: 100%;
+    color: #FFFFFF;
+    text-decoration: none;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
